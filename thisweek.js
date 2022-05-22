@@ -19,49 +19,31 @@ const date = new Date();
           </thead>
           <tbody>
             <tr>
-                <td><img src="https://img.gqkorea.co.kr/gq/2015/12/style_566644d1e72a9.jpg" width="200" height="200" alt="My Image"/></td>
-                <td><img src="https://newsimg-hams.hankookilbo.com/2021/11/24/91b824b9-c15e-4ceb-88bb-59126bc8b32b.png" width="200" height="200" alt="My Image"/></td>
-                <td><img src="https://newsimg-hams.hankookilbo.com/2021/11/24/91b824b9-c15e-4ceb-88bb-59126bc8b32b.png" width="200" height="200" alt="My Image"/></td>
-                <td><img src="https://newsimg-hams.hankookilbo.com/2021/11/24/91b824b9-c15e-4ceb-88bb-59126bc8b32b.png" width="200" height="200" alt="My Image"/></td>
-                <td><img src="https://newsimg-hams.hankookilbo.com/2021/11/24/91b824b9-c15e-4ceb-88bb-59126bc8b32b.png" width="200" height="200" alt="My Image"/></td>
-                <td><img src="https://newsimg-hams.hankookilbo.com/2021/11/24/91b824b9-c15e-4ceb-88bb-59126bc8b32b.png" width="200" height="200" alt="My Image"/></td>
-                <td><img src="https://img.gqkorea.co.kr/gq/2015/12/style_566644d1e72a9.jpg" width="200" height="200" alt="My Image"/></td>
+                <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBBaUmnb6syjxN6yY3EQ3fBg6nXv1u7-DtKw&usqp=CAU" width="200" height="200" alt="My Image"/></td>
+                <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-zT26WiVPEKDtIhuIkurK2Mzj2bwLcc1kvw&usqp=CAU" width="200" height="200" alt="My Image"/></td>
+                <td><img src="" width="200" height="200" alt="My Image"/></td>
+                <td><img src="" width="200" height="200" alt="My Image"/></td>
+                <td><img src="" width="200" height="200" alt="My Image"/></td>
+                <td><img src="" width="200" height="200" alt="My Image"/></td>
+                <td><img src="" width="200" height="200" alt="My Image"/></td>
             </tr>
             <tr>
-            <td>image</td>
-              <td>image</td>
-              <td>image</td>
-              <td>image</td>
-              <td>image</td>
-              <td>image</td>
-              <td>image</td>
+            <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8gBkH8vVew9-rn_l6TXLgnBk6SviOIiAoxg&usqp=CAU" width="200" height="200" alt="My Image"/></td>
+            <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFUkRCpoRggl9eByG7ht2a6peVPL1HjhqGkw&usqp=CAU" width="200" height="200" alt="My Image"/></td>
+            <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6cOnnp8SX1qFmYt6_2I7Ik0Nx0elrRPZf0A&usqp=CAU" width="200" height="200" alt="My Image"/></td>
+            <td><img src="" width="200" height="200" alt="My Image"/></td>
+            <td><img src="" width="200" height="200" alt="My Image"/></td>
+            <td><img src="" width="200" height="200" alt="My Image"/></td>
+            <td><img src="" width="200" height="200" alt="My Image"/></td>
             </tr>
             <tr>
-            <td>image</td>
-              <td>image</td>
-              <td>image</td>
-              <td>image</td>
-              <td>image</td>
-              <td>image</td>
-              <td>image</td>
-            </tr>
-            <tr>
-            <td>image</td>
-              <td>image</td>
-              <td>image</td>
-              <td>image</td>
-              <td>image</td>
-              <td>image</td>
-              <td>image</td>
-            </tr>
-            <tr>
-            <td>image</td>
-              <td>image</td>
-              <td>image</td>
-              <td>image</td>
-              <td>image</td>
-              <td>image</td>
-              <td>image</td>
+            <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNP1WTKgVR2L8_v8fFtPWC3ISPz1OnaF-jAA&usqp=CAU" width="200" height="200" alt="My Image"/></td>
+            <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRILrHcaXpb86kLLb25kmoMTYCwIvhGUwor7Q&usqp=CAU" width="200" height="200" alt="My Image"/></td>
+            <td><img src="" width="200" height="200" alt="My Image"/></td>
+            <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofII2I9Yn58vdE7-8q2oj58M-YWJjAvxPJA&usqp=CAU" width="200" height="200" alt="My Image"/></td>
+            <td><img src="" width="200" height="200" alt="My Image"/></td>
+            <td><img src="" width="200" height="200" alt="My Image"/></td>
+            <td><img src="" width="200" height="200" alt="My Image"/></td>
             </tr>
           </tbody>
         </table>
